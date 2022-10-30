@@ -1,0 +1,11 @@
+{
+  "name": "tool",
+  "main": "builder.js",
+  "scripts": {
+    "start": "node builder.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "win-dpapi": "^1.1.0"
+  }
+}
