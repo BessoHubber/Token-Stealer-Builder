@@ -12,7 +12,7 @@
 ## Builder
 - It will compile executable using pkg and compress it using GZIP  
 - Its fully undetected all antivirus runtime & scantime  
-![image](https://user-images.githubusercontent.com/100526916/198858414-a38b23f7-8367-4423-bbe8-9dc84872136f.png)  
+![image](https://user-images.githubusercontent.com/100526916/199351508-a3459831-b7bf-446c-9b76-6397993a615c.png)  
 ![image](https://user-images.githubusercontent.com/100526916/198875914-140c4960-4bd7-45fd-bd14-bd1a9477a8f9.png)  
 
 
